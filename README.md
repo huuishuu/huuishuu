@@ -8,10 +8,10 @@ As of June 2021, I've wrapped up my 2nd year of my studies, primarily focusing o
 Thinking of eventually putting up some of my college programs up on GitHub as a way of preserving the things I've made though likely in a private repository to avoid complaints from my college.
 
 **__Social Media:__**
+- [YouTube](https://www.youtube.com/c/huuhuuishuu)
 - [Twitter](https://twitter.com/huuishuu)
 - [Twitch](https://twitch.tv/huu__)
-- [osu! profile](https://osu.ppy.sh/users/6044237)
-- [Last.fm](https://last.fm/user/huuishuu)
+- [osu!](https://osu.ppy.sh/users/6044237)
 - [Steam](https://steamcommunity.com/id/huuishuu)
 
 <!---
